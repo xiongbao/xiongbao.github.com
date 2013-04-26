@@ -1,0 +1,15 @@
+@import url('reset.import.css');
+html {overflow: auto;}
+body {font-family:tahoma,microsoft yahei;color:#383838;background: #f1f1f1;}
+u:lang(zh) {border-bottom: 1px solid;text-decoration: none;padding-bottom: .05em;}
+a {color:#0645AD;}
+a[rel="external"]:after {display: inline-block;width:10px;height:10px;margin-left:2px;vertical-align:2px;content:"";background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFZJREFUeF59z4EJADEIQ1F36k7u5E7ZKXeUQPACJ3wK7UNokVxVk9kHnQH7bY9hbDyDhNXgjpRLqFlo4M2GgfyJHhjq8V4agfrgPQX3JtJQGbofmCHgA/nAKks+JAjFAAAAAElFTkSuQmCC') no-repeat 0 0;}
+header {padding:2.5em 0 1.5em;border-bottom: 1px solid #ddd;}
+.logo {background-image: url(images/logo.png);background-size: 100%;width:182px;height:54px;}
+.page {width:960px;background:#fff;padding:0 2em;margin:0 auto;min-height: 100%;}
+article {margin:2em 0;}
+article ul {margin-left:2em;list-style: none;}
+article sup {font-weight: 700;}
+.introduction .photo {margin:0 0 2em 2em;border:1px solid #ccc;padding:2px;}
+footer {background:#f4f4f4;padding:.5em;}
+.copyright {font-size:12px;color:#999;}

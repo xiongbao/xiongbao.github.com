@@ -11,7 +11,8 @@ article {margin:2em 0;}
 article h2 {font-weight: normal;margin:1em 0;}
 article:lang(zh) p {text-indent: 2em;}
 article:lang(zh) p:before {display: none}
-article ul,article ol {margin-left:2em;list-style: none;}
+article ul,article ol {margin-left:2em;}
+article ul {list-style: none;}
 article sup {font-weight: 700;}
 .introduction .photo {margin:0 0 2em 2em;border:1px solid #ccc;padding:2px;}
 footer {font-size:12px;border-top:1px solid #ddd;padding:1em 0 2em;text-align: center;}

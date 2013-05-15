@@ -7,7 +7,7 @@ a {color:#0645AD;}
 a[rel="external"]:after {display: inline-block;width:10px;height:10px;margin-left:2px;vertical-align:2px;content:"";background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFZJREFUeF59z4EJADEIQ1F36k7u5E7ZKXeUQPACJ3wK7UNokVxVk9kHnQH7bY9hbDyDhNXgjpRLqFlo4M2GgfyJHhjq8V4agfrgPQX3JtJQGbofmCHgA/nAKks+JAjFAAAAAElFTkSuQmCC') no-repeat 0 0;}
 header {padding:2.5em 0 1.5em;border-bottom: 1px solid #ddd;}
 .logo {background-image: url(images/logo.png);background-size: 100%;width:182px;height:54px;}
-.page {background:#fff;padding:0 2em;min-height: 100%;}
+.page {background:#fff;margin:0 1em;min-height: 100%;}
 article {margin:2em 0;}
 article q {white-space: nowrap;}
 article h2 {font-weight: normal;margin:1em 0;}
@@ -23,5 +23,5 @@ article .notes {font-size: .875em;}
 footer {font-size:.75em;border-top:1px solid #ddd;padding:1em 0 2em;text-align: center;}
 .copyright {color:#999;margin:0 0 .5em;}
 @media only screen and (max-width:60em;),only screen and (max-device-width: 60em) {
-	.page {width:60em;margin:0 auto;}
+	.page {width:60em;margin:0 auto;padding:0 2em;}
 }

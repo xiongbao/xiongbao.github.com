@@ -22,7 +22,7 @@ article .notes {font-size: .875em;}
 .introduction .photo {margin:0 0 2em 2em;border:1px solid #ccc;padding:2px;}
 footer {font-size:.75em;border-top:1px solid #ddd;padding:1em 0 2em;text-align: center;}
 .copyright {color:#999;margin:0 0 .5em;}
-@media only screen and (max-width:768px),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:96dpi) {
+@media only screen and (max-width:768px),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:2dppx) {
 	header {padding:1em 0 .6em;}
 	.page {margin:0 1em;width:auto;}
 	.logo {background-image: url(images/logo@2x.png);background-size: 100%;width:140px;height:40px;}

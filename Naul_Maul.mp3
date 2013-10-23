@@ -1,0 +1,386 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2013-10-23T14:07:59.303Z",
+        "id": "page_1",
+        "title": "http://translate.google.cn/translate_tts?ie=UTF-8&q=Naul%20maul&tl=en",
+        "pageTimings": {
+          "onContentLoad": 875,
+          "onLoad": 2174
+        }
+      }
+    ],
+    "entries": [
+      {
+        "startedDateTime": "2013-10-23T14:07:59.303Z",
+        "time": 875,
+        "request": {
+          "method": "GET",
+          "url": "http://translate.google.cn/translate_tts?ie=UTF-8&q=Naul%20maul&tl=en",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Host",
+              "value": "translate.google.cn"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36"
+            },
+            {
+              "name": "X-Chrome-Variations",
+              "value": "CKq1yQEIlrbJAQiitskBCKm2yQEIxLbJAQi4hcoBCJ6GygEI0IfKAQiWisoB"
+            },
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0"
+            },
+            {
+              "name": "Cookie",
+              "value": "NID=67=I2uatbXSWwAw_sAAgOhRS1B6bUkUx5Xs8pq9H9Io277-kfrVWCv98-j0y9umJ04s3jtTW57LfLq8ntXZ5eQ6e2XiSGMRU6rXU0sHKuFC-MIZyI25O-j3dtEfIvDWXdbl; PREF=ID=4e4a6ab528c7e811:U=88dcdada96f0f284:NW=1:TM=1378715265:LM=1378796360:S=X4cfM0h5yFrEx7-4"
+            },
+            {
+              "name": "Proxy-Connection",
+              "value": "keep-alive"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ie",
+              "value": "UTF-8"
+            },
+            {
+              "name": "q",
+              "value": "Naul%20maul"
+            },
+            {
+              "name": "tl",
+              "value": "en"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "NID",
+              "value": "67=I2uatbXSWwAw_sAAgOhRS1B6bUkUx5Xs8pq9H9Io277-kfrVWCv98-j0y9umJ04s3jtTW57LfLq8ntXZ5eQ6e2XiSGMRU6rXU0sHKuFC-MIZyI25O-j3dtEfIvDWXdbl",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=4e4a6ab528c7e811:U=88dcdada96f0f284:NW=1:TM=1378715265:LM=1378796360:S=X4cfM0h5yFrEx7-4",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 758,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Wed, 23 Oct 2013 14:07:59 GMT"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "MISS from proxy:8080"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "MISS from proxy:8080"
+            },
+            {
+              "name": "Server",
+              "value": "HTTP server (unknown)"
+            },
+            {
+              "name": "Content-Type",
+              "value": "audio/mpeg"
+            },
+            {
+              "name": "Alternate-Protocol",
+              "value": "80:quic,80:quic"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "private, max-age=86400"
+            },
+            {
+              "name": "Content-Length",
+              "value": "4032"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 23 Oct 2013 14:07:59 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4032,
+            "mimeType": "audio/mpeg",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 393,
+          "bodySize": 4032
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "connect": -1,
+          "send": 0,
+          "wait": 746,
+          "receive": 125,
+          "ssl": 0
+        },
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2013-10-23T14:08:00.178Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "http://translate.google.cn/translate_tts?ie=UTF-8&q=Naul%20maul&tl=en",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ie",
+              "value": "UTF-8"
+            },
+            {
+              "name": "q",
+              "value": "Naul%20maul"
+            },
+            {
+              "name": "tl",
+              "value": "en"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 206,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "audio/mpeg",
+            "compression": 0,
+            "text": ""
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2013-10-23T14:08:00.179Z",
+        "time": 1268,
+        "request": {
+          "method": "GET",
+          "url": "http://translate.google.cn/translate_tts?ie=UTF-8&q=Naul%20maul&tl=en",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept-Encoding",
+              "value": "identity;q=1, *;q=0"
+            },
+            {
+              "name": "Host",
+              "value": "translate.google.cn"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36"
+            },
+            {
+              "name": "X-Chrome-Variations",
+              "value": "CKq1yQEIlrbJAQiitskBCKm2yQEIxLbJAQi4hcoBCJ6GygEI0IfKAQiWisoB"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Referer",
+              "value": "http://translate.google.cn/translate_tts?ie=UTF-8&q=Naul%20maul&tl=en"
+            },
+            {
+              "name": "Cookie",
+              "value": "NID=67=I2uatbXSWwAw_sAAgOhRS1B6bUkUx5Xs8pq9H9Io277-kfrVWCv98-j0y9umJ04s3jtTW57LfLq8ntXZ5eQ6e2XiSGMRU6rXU0sHKuFC-MIZyI25O-j3dtEfIvDWXdbl; PREF=ID=4e4a6ab528c7e811:U=88dcdada96f0f284:NW=1:TM=1378715265:LM=1378796360:S=X4cfM0h5yFrEx7-4"
+            },
+            {
+              "name": "Proxy-Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Range",
+              "value": "bytes=0-"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ie",
+              "value": "UTF-8"
+            },
+            {
+              "name": "q",
+              "value": "Naul%20maul"
+            },
+            {
+              "name": "tl",
+              "value": "en"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "NID",
+              "value": "67=I2uatbXSWwAw_sAAgOhRS1B6bUkUx5Xs8pq9H9Io277-kfrVWCv98-j0y9umJ04s3jtTW57LfLq8ntXZ5eQ6e2XiSGMRU6rXU0sHKuFC-MIZyI25O-j3dtEfIvDWXdbl",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=4e4a6ab528c7e811:U=88dcdada96f0f284:NW=1:TM=1378715265:LM=1378796360:S=X4cfM0h5yFrEx7-4",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 771,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Wed, 23 Oct 2013 14:08:00 GMT"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "MISS from proxy:8080"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "MISS from proxy:8080"
+            },
+            {
+              "name": "Server",
+              "value": "HTTP server (unknown)"
+            },
+            {
+              "name": "Content-Type",
+              "value": "audio/mpeg"
+            },
+            {
+              "name": "Alternate-Protocol",
+              "value": "80:quic,80:quic"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "private, max-age=86400"
+            },
+            {
+              "name": "Content-Length",
+              "value": "4032"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 23 Oct 2013 14:08:00 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4032,
+            "mimeType": "audio/mpeg",
+            "compression": 0,
+            "text": ""
+          },
+          "redirectURL": "",
+          "headersSize": 393,
+          "bodySize": 4032
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "connect": -1,
+          "send": 0,
+          "wait": 1255,
+          "receive": 1,
+          "ssl": 0
+        },
+        "pageref": "page_1"
+      }
+    ]
+  }
+}

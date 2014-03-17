@@ -1,6 +1,6 @@
 @import url('reset.import.css');
 html {overflow: auto;}
-body {font-family:tahoma,microsoft yahei;color:#383838;background: #f1f1f1;}
+body {font-family:'Open Sans','Helvetica Neue',Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;color:#383838;background: #f1f1f1;}
 u:lang(zh) {border-bottom: 1px solid;text-decoration: none;padding-bottom: .05em;}
 ruby rt {font-size: .56em;}
 a {color:#0645AD;}
@@ -23,7 +23,10 @@ article .notes {font-size: .875em;}
 footer {font-size:.75em;border-top:1px solid #ddd;padding:1em 0 2em;text-align: center;}
 .copyright {color:#999;margin:0 0 .5em;}
 @media only screen and (max-width:768px),(-webkit-min-device-pixel-ratio:1.5),(min-resolution:2dppx) {
+	:lang(zh) article blockquote, :lang(ja) article blockquote {
+		margin:.8em 0 .8em 1em;
+	}
 	header {padding:1em 0 .6em;}
-	.page {margin:0 1em;width:auto;}
+	.page {margin:0 .5em;width:auto;padding-left:1em;padding-right:1em;}
 	.logo {background-image: url(images/logo@2x.png);background-size: 100%;width:140px;height:40px;}
 }

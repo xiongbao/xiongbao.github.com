@@ -27,7 +27,7 @@ footer {font-size:.75em;border-top:1px solid #ddd;padding:1em 0 2em;text-align: 
 		margin:.8em 0 .8em 1em;
 	}
 	header {padding:1em 0 .6em;}
-	.page {margin:0 .5em;width:auto;padding-left:1em;padding-right:1em;}
+	.page {width:auto;padding-left:1em;padding-right:1em;}
 }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5),(min-resolution:2dppx) {
   .logo {background-image: url(images/logo@2x.png);background-size: 100%;width:140px;height:40px;}
